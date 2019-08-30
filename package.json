@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-tracker",
+  "version": "1.0.0",
+  "description": "simple app to use bitcoin API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Jorge machado",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
